@@ -1,0 +1,6 @@
+streamlit
+scikit-learn
+numpy
+pandas
+matplotlib
+matplotlib>=3.7
